@@ -1,3 +1,6 @@
+## Licence
+Ce projet est protégé par une licence personnalisée. **Toute utilisation, reproduction ou diffusion est strictement interdite sans autorisation préalable.**
+
 # 💼 Logiciel de Facturation – David Limousine
 
 ## 🧾 Présentation du projet
